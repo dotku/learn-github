@@ -13,4 +13,4 @@ Github is a version control service provider, but it is not just Git
 1. wait for staging testing
 1. wait for product release
 1. get feedback from the user/marketing/product team
-1. start new feature, go back to step a
+1. start new feature, go back to step 1
